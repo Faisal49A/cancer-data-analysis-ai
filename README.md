@@ -21,7 +21,7 @@ The CSV file `cancer_data.csv` contains the sample dataset used for analysis.
 4. Run the notebook cells in order to reproduce the analysis and visualisations
 
 ## Outputs
-Screenshots of key charts and model outputs are available in the [images](./images) folder.
+Screenshots of key charts and model outputs are available in the [images](./Images) folder.
 
 ## Technologies Used
 Python, Pandas, NumPy, Scikit-learn, Plotly, Dash, Jupyter Notebook
